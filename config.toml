@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Ikue Ueno"
-baseurl = "http://IkueUeno.com/"
+baseurl = "https://shbli.github.io/ikueueno/"
 theme = "prologue"
 publishDir = "docs"
 
