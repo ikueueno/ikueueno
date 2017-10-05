@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Ikue Ueno"
-baseurl = "https://shbli.github.io/ikueueno/"
+baseurl = "https://www.ikueueno.com/"
 theme = "prologue"
 publishDir = "docs"
 
@@ -12,61 +12,41 @@ publishDir = "docs"
 [[params.social]]
   medium = "facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/Ikuedancer"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "#"
+  link = "https://www.instagram.com/ikueueno/"
 
 [[params.social]]
   medium = "youtube"
   icon = "youtube"
-  link = "#"
+  link = "https://www.youtube.com/user/IkueDancer"
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "#"
+  link = "mailto:ikuedancer@gmail.com"
 
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Ipsum Feugiat"
+  title = "Dance teacher"
   alt = ""
-  source = "img/pic02.jpg"
+  source = "img/portolio_1.jpg"
   url = "#"
 
-[[params.portfolio1]]
-  title = "Rhoncus Semper"
+[[params.portfolio2]]
+  title = "Dancer"
   alt = ""
-  source = "img/pic03.jpg"
+  source = "img/portolio_2.jpg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Choreographer"
+  alt = ""
+  source = "img/portolio_3.jpg"
   url = "#"
 
 # Portfolio column two
-
-[[params.portfolio2]]
-  title = "Magna Nullam"
-  alt = ""
-  source = "img/pic04.jpg"
-  url = "#"
-
-[[params.portfolio2]]
-  title = "Natoque Vitae"
-  alt = ""
-  source = "img/pic05.jpg"
-  url = "#"
-
-# Portfolio column 3
-
-[[params.portfolio3]]
-  title = "Dolor Penatibus"
-  alt = ""
-  source = "img/pic06.jpg"
-  url = "#"
-
-[[params.portfolio3]]
-  title = "Orci Convallis"
-  alt = ""
-  source = "img/pic07.jpg"
-  url = "#"
