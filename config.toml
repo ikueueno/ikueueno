@@ -17,7 +17,7 @@ publishDir = "docs"
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "https://www.instagram.com/ikueueno/"
+  link = "https://www.instagram.com/ikuedancer/"
 
 [[params.social]]
   medium = "youtube"
@@ -35,18 +35,18 @@ publishDir = "docs"
   title = "Dance teacher"
   alt = ""
   source = "img/portolio_1.jpg"
-  url = "#"
+  url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio2]]
   title = "Dancer"
   alt = ""
   source = "img/portolio_2.jpg"
-  url = "#"
+  url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio3]]
   title = "Choreographer"
   alt = ""
   source = "img/portolio_3.jpg"
-  url = "#"
+  url = "https://www.instagram.com/ikuedancer/"
 
 # Portfolio column two
