@@ -32,21 +32,79 @@ publishDir = "docs"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Dance teacher"
+  title = "Dancer"
   alt = ""
   source = "img/portolio_1.jpg"
   url = "https://www.instagram.com/ikuedancer/"
 
-[[params.portfolio2]]
-  title = "Dancer"
+[[params.portfolio1]]
+  title = "Performer"
   alt = ""
   source = "img/portolio_2.jpg"
   url = "https://www.instagram.com/ikuedancer/"
 
-[[params.portfolio3]]
+[[params.portfolio1]]
   title = "Choreographer"
   alt = ""
   source = "img/portolio_3.jpg"
   url = "https://www.instagram.com/ikuedancer/"
 
+[[params.portfolio1]]
+  title = "Freestyler"
+  alt = ""
+  source = "img/portolio_4.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+
 # Portfolio column two
+
+[[params.portfolio2]]
+  title = "Dancer teacher"
+  alt = ""
+  source = "img/portolio_5.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+[[params.portfolio2]]
+  title = "Live on stage"
+  alt = ""
+  source = "img/portolio_6.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+[[params.portfolio2]]
+  title = "Spiritual"
+  alt = ""
+  source = "img/portolio_7.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+[[params.portfolio2]]
+  title = "Street dancer"
+  alt = ""
+  source = "img/portolio_8.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+
+# Portfolio column three
+
+[[params.portfolio3]]
+  title = "Voguing dancer"
+  alt = ""
+  source = "img/portolio_9.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+[[params.portfolio3]]
+  title = "Club kid"
+  alt = ""
+  source = "img/portolio_10.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+[[params.portfolio3]]
+  title = "Waacking dancer"
+  alt = ""
+  source = "img/portolio_11.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
+
+[[params.portfolio3]]
+  title = "Contemporary dancer"
+  alt = ""
+  source = "img/portolio_12.jpg"
+  url = "https://www.instagram.com/ikuedancer/"
