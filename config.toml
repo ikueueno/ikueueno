@@ -59,13 +59,13 @@ publishDir = "docs"
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Dancer teacher"
+  title = "Dance instructor"
   alt = ""
   source = "img/portolio_5.jpg"
   url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio2]]
-  title = "Live on stage"
+  title = "Living on stage"
   alt = ""
   source = "img/portolio_6.jpg"
   url = "https://www.instagram.com/ikuedancer/"
@@ -77,7 +77,7 @@ publishDir = "docs"
   url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio2]]
-  title = "Street dancer"
+  title = "Hip hop"
   alt = ""
   source = "img/portolio_8.jpg"
   url = "https://www.instagram.com/ikuedancer/"
@@ -86,7 +86,7 @@ publishDir = "docs"
 # Portfolio column three
 
 [[params.portfolio3]]
-  title = "Voguing dancer"
+  title = "Voguing"
   alt = ""
   source = "img/portolio_9.jpg"
   url = "https://www.instagram.com/ikuedancer/"
@@ -98,13 +98,13 @@ publishDir = "docs"
   url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio3]]
-  title = "Waacking dancer"
+  title = "Waacking"
   alt = ""
   source = "img/portolio_11.jpg"
   url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio3]]
-  title = "Contemporary dancer"
+  title = "Contemporary dance"
   alt = ""
   source = "img/portolio_12.jpg"
   url = "https://www.instagram.com/ikuedancer/"
