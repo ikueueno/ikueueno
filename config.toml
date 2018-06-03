@@ -53,7 +53,7 @@ publishDir = "docs"
   title = "Freestyler"
   alt = ""
   source = "img/portolio_4.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.youtube.com/watch?v=AmQHIVjziXY"
 
 
 # Portfolio column two
@@ -68,7 +68,7 @@ publishDir = "docs"
   title = "Living on stage"
   alt = ""
   source = "img/portolio_6.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://youtu.be/EYlCGQ628gE?t=10723"
 
 [[params.portfolio2]]
   title = "Spiritual #metoo"
@@ -86,16 +86,16 @@ publishDir = "docs"
 # Portfolio column three
 
 [[params.portfolio3]]
-  title = "Voguing"
+  title = "Voguing House of La Douche"
   alt = ""
   source = "img/portolio_9.jpg"
-  url = "https://www.youtube.com/watch?v=LpzdKpFYtdY"
+  url = "https://www.youtube.com/watch?v=sNCB0kNeU34"
 
 [[params.portfolio3]]
   title = "Club kid"
   alt = ""
   source = "img/portolio_10.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.youtube.com/watch?v=LpzdKpFYtdY"
 
 [[params.portfolio3]]
   title = "Waacking"
