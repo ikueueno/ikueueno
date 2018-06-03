@@ -41,7 +41,7 @@ publishDir = "docs"
   title = "Performer"
   alt = ""
   source = "img/portolio_2.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.youtube.com/watch?v=9gD-6-WZkMY"
 
 [[params.portfolio1]]
   title = "Choreographer"
@@ -89,7 +89,7 @@ publishDir = "docs"
   title = "Voguing"
   alt = ""
   source = "img/portolio_9.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.youtube.com/watch?v=LpzdKpFYtdY"
 
 [[params.portfolio3]]
   title = "Club kid"
