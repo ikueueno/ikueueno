@@ -35,7 +35,7 @@ publishDir = "docs"
   title = "Dancer"
   alt = ""
   source = "img/portolio_1.jpg"
-  url = "https://vimeo.com/238616732"
+  url = "https://www.facebook.com/sonsofgranville/videos/2028664403842896/"
 
 [[params.portfolio1]]
   title = "Performer"
@@ -71,7 +71,7 @@ publishDir = "docs"
   url = "https://www.instagram.com/ikuedancer/"
 
 [[params.portfolio2]]
-  title = "Spiritual"
+  title = "Spiritual #metoo"
   alt = ""
   source = "img/portolio_7.jpg"
   url = "https://vimeo.com/238616732"
