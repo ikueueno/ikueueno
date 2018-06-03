@@ -35,7 +35,7 @@ publishDir = "docs"
   title = "Dancer"
   alt = ""
   source = "img/portolio_1.jpg"
-  url = "https://www.facebook.com/sonsofgranville/videos/2028664403842896/"
+  url = "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsonsofgranville%2Fvideos%2F2028664403842896%2F&show_text=0&width=560"
 
 [[params.portfolio1]]
   title = "Performer"
