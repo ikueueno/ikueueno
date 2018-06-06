@@ -47,7 +47,7 @@ publishDir = "docs"
   title = "Choreographer"
   alt = ""
   source = "img/portolio_3.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.instagram.com/p/Bjl2JaXj12H/?taken-by=ikuedancer"
 
 [[params.portfolio1]]
   title = "Freestyler"
@@ -62,7 +62,7 @@ publishDir = "docs"
   title = "Dance instructor"
   alt = ""
   source = "img/portolio_5.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.instagram.com/p/BbPk1KMhCH3/?taken-by=ikuedancer"
 
 [[params.portfolio2]]
   title = "Living on stage"
@@ -80,7 +80,7 @@ publishDir = "docs"
   title = "Hip hop"
   alt = ""
   source = "img/portolio_8.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.instagram.com/p/BiVMzFMhBFz/?taken-by=ikuedancer"
 
 
 # Portfolio column three
@@ -101,10 +101,10 @@ publishDir = "docs"
   title = "Waacking"
   alt = ""
   source = "img/portolio_11.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.youtube.com/watch?v=vdf9lQHKlm8"
 
 [[params.portfolio3]]
   title = "Contemporary dance"
   alt = ""
   source = "img/portolio_12.jpg"
-  url = "https://www.instagram.com/ikuedancer/"
+  url = "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsonsofgranville%2Fvideos%2F2028664403842896%2F&show_text=0&width=560"
