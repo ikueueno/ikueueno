@@ -55,6 +55,12 @@ publishDir = "docs"
   source = "img/portolio_4.jpg"
   url = "https://www.youtube.com/watch?v=AmQHIVjziXY"
 
+[[params.portfolio1]]
+  title = "For all ages and levels"
+  alt = ""
+  source = "img/portolio_13.jpg"
+  url = "https://www.instagram.com/p/Bjl2JaXj12H/?taken-by=ikuedancer"
+
 
 # Portfolio column two
 
@@ -62,7 +68,7 @@ publishDir = "docs"
   title = "Dance instructor"
   alt = ""
   source = "img/portolio_5.jpg"
-  url = "https://www.instagram.com/p/BbPk1KMhCH3/?taken-by=ikuedancer"
+  url = "https://www.facebook.com/events/368096093672753/"
 
 [[params.portfolio2]]
   title = "Living on stage"
@@ -82,14 +88,19 @@ publishDir = "docs"
   source = "img/portolio_8.jpg"
   url = "https://www.instagram.com/p/BiVMzFMhBFz/?taken-by=ikuedancer"
 
+[[params.portfolio2]]
+  title = "Voguing"
+  alt = ""
+  source = "img/portolio_14.jpg"
+  url = "https://www.instagram.com/p/BiVMzFMhBFz/?taken-by=ikuedancer"
 
 # Portfolio column three
 
 [[params.portfolio3]]
-  title = "Voguing House of La Douche"
+  title = "Mother of House of La Douche"
   alt = ""
   source = "img/portolio_9.jpg"
-  url = "https://www.youtube.com/watch?v=sNCB0kNeU34"
+  url = "https://www.instagram.com/houseofladouche/"
 
 [[params.portfolio3]]
   title = "Club kid"
@@ -108,3 +119,10 @@ publishDir = "docs"
   alt = ""
   source = "img/portolio_12.jpg"
   url = "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsonsofgranville%2Fvideos%2F2028664403842896%2F&show_text=0&width=560"
+
+[[params.portfolio3]]
+  title = "Runway Performance"
+  alt = ""
+  source = "img/portolio_15.jpg"
+  url = "https://www.instagram.com/p/BhS8n2Jn43y/?taken-by=houseofladouche"
+
